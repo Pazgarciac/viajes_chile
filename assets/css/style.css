@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+    font-family: 'Raleway', sans-serif;
+    background-color: #000000;
+  }
+
+  .icons {
+      text-align: right;
+  }
+
+  .logo-footer {
+    text-transform: uppercase;
+  }
+
+  .navbar-dark {
+      transition: all 1s ease;
+  }
+
+  .nav-item {
+    font-weight: 400;
+  }
